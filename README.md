@@ -24,3 +24,4 @@ by gettig rid of the Div tag and replacing it with a section ID then was able to
 ## HTML Footer
 i replaced the Div class footer because the footer was not coveying any special meaning to the content
 
+<img width="1433" alt="image" src="https://user-images.githubusercontent.com/113070891/196557409-dfac8506-cdde-4405-978a-3647cab15cb6.png">
